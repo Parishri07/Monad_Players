@@ -280,7 +280,7 @@ const Board = () => {
           {!isPlayEnable && (
             <>
               <h1 className="font-bold text-pretty text-2xl uppercase text-center">
-                Monad Matchers
+                Monad Fusion
               </h1>
               <p className="text-pretty text-lg text-center uppercase">
                 Click on the cards to <br /> find the matching pairs
