@@ -180,7 +180,7 @@ const Board = () => {
       <div className="orbitron-font mx-auto h-[100vh] flex">
         <div className="w-[20%] bg-[#fefae0] border-4 border-white rounded-md p-6 flex flex-col">
           <h1 className="font-bold text-pretty text-xl uppercase text-center">
-            Monad Matchers
+            Monad Fusion
           </h1>
           <div className="flex flex-col p-2 mt-10">
             <h3 className="font-bold text-pretty text-xl uppercase">
