@@ -1,5 +1,5 @@
 
-# Monad Players Gameplay
+# Monad Matchers Gameplay
 ### You have 15 moves to match Monad NFTs in this game. Each play results in either winning or losing a Monad NFT. Additionally, you'll earn XP points, which determine your ranking on the leaderboard. Can you rise to the top? 🎮🔥
 
 
